@@ -3,7 +3,7 @@ IoT Dashboard for Autonomous Vehicle -
 This project is a web-based dashboard for monitoring and testing the autonomous vehicle system.
 It allows users to visualize live map data, monitor coordinates, and eventually integrate with the vehicle’s video feed systems.
 
-How to Run the IoT Dashboard GUI
+How to Run the IoT Dashboard GUI -
 1. Install Python
 Make sure Python 3.x is installed. 
 
