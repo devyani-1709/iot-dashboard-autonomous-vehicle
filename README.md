@@ -15,9 +15,9 @@ Note: PyQt5 is for the GUI, PyQtWebEngine is for displaying the map, opencv-pyth
 
 3. Clone the Repository :
 
-git clone <<your-repo-url>>
+git clone <your-repo-url>
 
-cd <<your-repo-folder>>
+cd <your-repo-folder>
 
 4. Run the GUI :
 python main_gui.py
