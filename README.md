@@ -14,9 +14,10 @@ pip install pyqt5 pyqtwebengine opencv-python folium
 Note: PyQt5 is for the GUI, PyQtWebEngine is for displaying the map, opencv-python is for the camera feed, and folium is for the GPS map.
 
 3. Clone the Repository :
-git clone <your-repo-url>
 
-cd <your-repo-folder>
+git clone <<your-repo-url>>
+
+cd <<your-repo-folder>>
 
 4. Run the GUI :
 python main_gui.py
